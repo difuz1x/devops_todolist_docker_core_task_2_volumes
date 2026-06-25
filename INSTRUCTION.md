@@ -46,3 +46,8 @@ docker run -d \
 App is available at http://localhost:8080
 
 ---
+
+https://hub.docker.com/repository/docker/difuz1x/todoapp/general
+
+
+https://hub.docker.com/repository/docker/difuz1x/mysql-local
